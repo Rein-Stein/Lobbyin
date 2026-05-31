@@ -77,8 +77,4 @@ classDiagram
     Booking "many" o-- "1" ClassRoom : mereferensi
 ```
 
-## 3. Cara Melihat Diagram
-Untuk melihat diagram ini secara visual:
-1.  Buka [Mermaid Live Editor](https://mermaid.live/).
-2.  Salin blok kode di atas (mulai dari `graph LR` atau `classDiagram`).
-3.  Tempelkan ke dalam editor Mermaid.
+
