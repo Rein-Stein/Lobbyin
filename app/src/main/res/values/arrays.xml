@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="floor_options">
+        <item>Lantai 1</item>
+        <item>Lantai 2</item>
+        <item>Lantai 3</item>
+    </string-array>
+
+    <string-array name="roles">
+        <item>Mahasiswa</item>
+        <item>Dosen</item>
+        <item>Admin</item>
+    </string-array>
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "287843243985",
+    "project_id": "lobbyin-f8230",
+    "storage_bucket": "lobbyin-f8230.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287843243985:android:0f144c5b8178738afaf2f0",
+        "android_client_info": {
+          "package_name": "com.example.lobbyin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiv0WXxe_qUDfWgcJQ1Va8xn0xBpHkfGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

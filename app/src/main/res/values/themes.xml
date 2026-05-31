@@ -1,0 +1,21 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Tema Utama - TERANG (Default untuk Home, History, Booking, dll) -->
+    <style name="Theme.Lobbyin" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/navy_primary</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Background putih/abu-abu sangat muda -->
+        <item name="android:windowBackground">@color/background_light</item>
+        <item name="android:statusBarColor">@color/white</item>
+        <!-- Ikon status bar (jam, baterai) jadi hitam agar terlihat di bg putih -->
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+
+    <!-- Tema Auth - GELAP (Khusus Login & Register - Moon Theme) -->
+    <style name="Theme.Lobbyin.Auth" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/moon_gold</item>
+        <item name="android:windowBackground">@color/moon_space_dark</item>
+        <item name="android:statusBarColor">@color/moon_space_dark</item>
+        <!-- Ikon status bar tetap putih -->
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>

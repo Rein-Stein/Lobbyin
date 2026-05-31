@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- ========================================================== -->
+    <!-- MOON THEME (Auth - Login & Register) -->
+    <!-- ========================================================== -->
+    <color name="moon_space_dark">#050B18</color>
+    <color name="moon_deep_blue">#0A1F44</color>
+    <color name="moon_silver">#FFFFFF</color>
+    <color name="moon_gold">#FFD700</color>
+    <color name="moon_text_secondary">#E2E8F0</color>
+
+    <!-- ========================================================== -->
+    <!-- UI THEME (Utama - Home, History, dll) -->
+    <!-- ========================================================== -->
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="background_light">#F1F5F9</color>
+
+    <!-- Warna Teks Utama (Tajam) -->
+    <color name="text_primary">#0F172A</color>
+    <color name="text_secondary">#1E293B</color>
+    <color name="text_muted">#475569</color>
+
+    <!-- Warna Aksen Utama -->
+    <color name="navy_primary">#1E3A5F</color>
+    <color name="navy_light_solid">#2C5282</color>
+    <color name="status_green_solid">#166534</color>
+    <color name="status_red_solid">#991B1B</color>
+
+    <!-- Background Aksen (Soft) -->
+    <color name="accent_blue_bg">#E0F2FE</color>
+    <color name="accent_green_bg">#DCFCE7</color>
+    <color name="accent_purple_bg">#F3E8FF</color>
+    <color name="gray_border_solid">#CBD5E0</color>
+
+    <!-- ========================================================== -->
+    <!-- COMPATIBILITY MAPPING (MEMPERBAIKI ERROR BUILD) -->
+    <!-- ========================================================== -->
+    <color name="gray_border">@color/gray_border_solid</color>
+    <color name="accent_blue">@color/accent_blue_bg</color>
+    <color name="accent_green">@color/accent_green_bg</color>
+    <color name="accent_purple">@color/accent_purple_bg</color>
+    <color name="navy_light">@color/navy_light_solid</color>
+
+    <color name="gray_text">@color/text_primary</color>
+    <color name="gray_subtitle">@color/text_secondary</color>
+    <color name="gray_hint">@color/text_muted</color>
+    <color name="status_green">@color/status_green_solid</color>
+    <color name="status_red">@color/status_red_solid</color>
+    <color name="primary">@color/navy_primary</color>
+    <color name="onPrimary">@color/white</color>
+</resources>

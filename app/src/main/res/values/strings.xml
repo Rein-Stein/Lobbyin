@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lobbyin</string>
+    <string name="back">Kembali</string>
+    <string name="form_booking_title">Form Booking Kelas</string>
+    <string name="class_info">Informasi Kelas</string>
+    <string name="full_name">Nama Lengkap</string>
+    <string name="nim_username">NIM / Username</string>
+    <string name="password">Password</string>
+    <string name="subject">Mata Kuliah</string>
+    <string name="book_now">Booking Sekarang</string>
+    <string name="history">Riwayat</string>
+    <string name="choose_building">Pilih Ruangan</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="don_t_have_an_account_register">Belum punya akun? Daftar</string>
+    <string name="already_have_an_account_login">Already have an account? Login</string>
+    <string name="welcome_halo">Halo,</string>
+    <string name="user_placeholder">User</string>
+    <string name="gedung_f">Gedung F</string>
+
+    <!-- New Strings -->
+    <string name="welcome_subtitle">Selamat datang di Lobbyin</string>
+    <string name="welcome_desc">Booking ruang kelas jadi lebih mudah</string>
+    <string name="info_today">Informasi Hari Ini</string>
+    <string name="label_date">Tanggal</string>
+    <string name="label_rooms">Ruangan</string>
+    <string name="label_status">Status Sistem</string>
+    <string name="status_online">Online</string>
+    <string name="status_active">Aktif</string>
+    <string name="rooms_count">8 Kelas</string>
+    <string name="rooms_available">Tersedia</string>
+    <string name="gedung_f_floors">3 Lantai</string>
+    <string name="gedung_f_rooms">Fasilitas Lengkap</string>
+    <string name="gedung_f_capacity">Kapasitas Beragam</string>
+    <string name="see_classes">Lihat Kelas</string>
+    <string name="app_version">Lobbyin v1.0</string>
+    <string name="app_tagline">Smart Classroom Booking</string>
+    <string name="today_date_placeholder">12 Mei 2026</string>
+
+    <!-- UI Labels -->
+    <string name="status_empty">Kosong</string>
+    <string name="room_name_placeholder">GF-1.01</string>
+    <string name="capacity_placeholder">Kapasitas: 100 Orang</string>
+    <string name="facilities_placeholder">Proyektor / Smart Board</string>
+    <string name="time_placeholder">08:00 - 10:00</string>
+
+    <!-- Accessibility Strings -->
+    <string name="desc_profile_image">Foto Profil</string>
+    <string name="desc_calendar_icon">Ikon Kalender</string>
+    <string name="desc_rooms_icon">Ikon Ruangan</string>
+    <string name="desc_status_icon">Ikon Status</string>
+    <string name="desc_building_image">Gambar Gedung</string>
+    <string name="desc_app_logo">Logo Aplikasi</string>
+    <string name="desc_arrow_icon">Ikon Panah</string>
+    <string name="desc_capacity_icon">Ikon Kapasitas</string>
+    <string name="desc_facility_icon">Ikon Fasilitas</string>
+
+    <!-- Role Strings - Fixed names for Layout consistency -->
+    <string name="mahasiswa">Mahasiswa</string>
+    <string name="dosen">Dosen</string>
+    <string name="role_mahasiswa">Mahasiswa</string>
+    <string name="role_dosen">Dosen</string>
+    <string name="role_admin">Admin</string>
+    <string name="pilih_role">Pilih Role</string>
+    <string name="label_pilih_role">Pilih Role</string>
+
+    <string name="hint_username_nim">Username / NIM</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_role_code">Role Code</string>
+    <string name="btn_login">Login</string>
+    <string name="txt_register_prompt">Belum punya akun? Daftar</string>
+</resources>
