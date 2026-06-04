@@ -1,7 +1,5 @@
 # REFLEKSI PROYEK LOBBYIN
 
-*Kemampuan menilai diri — apa yang berhasil, apa yang gagal, dan apa yang akan diperbaiki.*
-
 ### **PRAKTIK:**
 
 *   **Lessons Learned:**
