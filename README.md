@@ -12,6 +12,7 @@
 *   **Role-Based Access:** Fitur berbeda untuk Mahasiswa, Dosen, dan Admin.
 *   **Admin Panel:** Kelola database ruangan (tambah, edit, hapus) langsung dari aplikasi.
 *   **Auto-Maintenance:** Sistem secara otomatis menghapus data reservasi yang sudah usang setiap hari.
+*   **Notifikasi:** Sistem akan memberikan notifikasi berhasil Booking 5 detik setelah Membooking.
 
 ## Panduan Instalasi
 1.  **Clone atau Download:** Unduh source code project ini.
